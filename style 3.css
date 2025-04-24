@@ -1,0 +1,143 @@
+.head {
+    background-color: #0d523e;
+    width: 900px;
+    height: 110px;
+    padding-right: 900px;
+    position: fixed;
+    /* margin-top: -25px; */
+    /* margin-left: -10px; */
+    top: -25px;
+    left: -10px;
+    z-index: 5;
+}
+
+img {
+    width: 200px;
+    margin-left: 40px;
+    margin-top: 55px;
+    display: inline-block;
+}
+
+.Home {
+    color: white;
+    text-decoration: none;
+    margin-left: 880px;
+    margin-top: -55px;
+    display: block;
+    font-size: 30px;
+}
+
+.Documentations {
+    color: white;
+    text-decoration: none;
+    margin-left: 990px;
+    margin-top: -34px;
+    display: block;
+    font-size: 30px;
+    letter-spacing: 2px;
+    text-transform: capitalize;
+}
+
+.Contact {
+    color: white;
+    text-decoration: none;
+    margin-left: 1250px;
+    margin-top: -34px;
+    display: block;
+    font-size: 30px;
+}
+
+.Contact,
+.Documentations,
+.Home {
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+}
+
+.title-home {
+    color: #0d523e;
+    font-family:Arial, Helvetica, sans-serif;
+    padding: 20px;
+    margin-top: 150px;
+    display: inline-block;
+    font-size: 50px;
+    margin-left: 15px;
+}
+.title-links{
+    display: inline-block;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: sans-serif;
+    margin-left: 30px;
+    color: #0d523e;
+}
+.label{
+    display: inline-block;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: sans-serif;
+    margin-left: 65px;
+}
+.Links{
+    display: inline-block;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+
+.title-input{
+    position: relative;
+    left: 50px;
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+input{
+    position: relative;
+    left: 50px;
+}
+footer{
+    background-color: #0d523e;
+    width: 1346px;
+    position: relative;
+    bottom: -17px;
+    height: 90px;
+    left: -8px;
+
+}
+.facebook{
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    margin-top: 7px;
+    margin-left: 600px;
+}
+.inestegrame{
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    margin-top: 7px;
+    margin-left: 25px;
+}
+.site{
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    margin-top: 7px;
+    margin-left: 25px;
+}
+.Youtube{
+    width: 40px;
+    height: 30px;
+    display: inline-block;
+    margin-top: 7px;
+    margin-left: 25px; 
+}
+.End{
+    position: relative;
+    color: white;
+    bottom: -5px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 250px;
+    font-weight: bold;
+}

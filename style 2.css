@@ -1,0 +1,234 @@
+.head {
+    background-color: #0d523e;
+    width: 900px;
+    height: 100px;
+    padding-right: 900px;
+    position: fixed;
+    margin-top: -25px;
+    margin-left: -10px;
+    vertical-align: middle;
+    z-index: 5;
+}
+img {
+    width: 200px;
+    margin-left: 40px;
+    margin-top: 35px;
+}
+
+
+.Home {
+    color: white;
+    text-decoration: none;
+    margin-left: 880px;
+    margin-top: -40px;
+    display: block;
+    font-size: 30px;
+}
+
+.Documentations {
+    color: white;
+    text-decoration: none;
+    margin-left: 990px;
+    margin-top: -34px;
+    display: block;
+    font-size: 30px;
+    letter-spacing: 2px;
+    text-transform: capitalize;
+}
+
+.Contact {
+    color: white;
+    text-decoration: none;
+    margin-left: 1250px;
+    margin-top: -34px;
+    display: block;
+    font-size: 30px;
+}
+.image-2 {
+    position: relative;
+    /* margin: -90px 95px; */
+    right: 95px;
+    top: -90px;
+    width: 5000px;
+    display: inline-block;
+    height: 590px;
+}
+.Contact,
+.Documentations,
+.Home {
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+}
+
+.title-home {
+    color: #0d523e;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    padding: 20px;
+    margin-top: 150px;
+    display: inline-block;
+    font-size: 70px;
+    margin-left: 5px;
+}
+
+.image {
+    position: relative;
+    position: -70px 75px;
+    width: 225px;
+    height: 150px;
+}
+
+
+.title-info {
+    display: inline-block;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+.last-doc {
+    vertical-align: middle;
+    position: relative;
+    width: 70%;
+    left: auto;
+    right: auto;
+    margin: 0 700px 0 auto;
+    z-index: 1;
+    display: inline-block;
+
+}
+
+.card-one {
+    position: relative;
+    left: 25px;
+    bottom: 25px;
+    display: inline-block;
+}
+
+.text-one {
+    position: relative;
+    color: black;
+    left: -810px;
+    z-index: 1;
+    vertical-align: middle;
+    bottom: -85px;
+    display: inline-block;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.text-two {
+    position: relative;
+    color: black;
+    left: -640px;
+    z-index: 1;
+    vertical-align: middle;
+    bottom: -85px;
+    display: inline-block;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.text-three {
+    position: relative;
+    color: black;
+    left: -470px;
+    vertical-align: middle;
+    z-index: 1;
+    bottom: -85px;
+    display: inline-block;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+}
+.download-it-1{
+    position: relative;
+    color: black;
+    left: -1060px;
+    vertical-align: middle;
+    z-index: 1;
+    bottom: -110px;
+    display: inline-block;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+}
+.download-it-2{
+    position: relative;
+    color: black;
+    left: 360px;
+    z-index: 1;
+    bottom: 70px;
+    vertical-align: middle;
+    display: inline-block;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+}
+.download-it-3{
+    position: relative;
+    color: black;
+    left: 490px;
+    z-index: 1;
+    bottom: 70px;
+    vertical-align: middle;
+    display: inline-block;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+
+
+footer{
+    background-color: #0d523e;
+    width: 1346px;
+    position: relative;
+    bottom: -17px;
+    height: 90px;
+    left: -8px;
+
+}
+.facebook{
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    margin-top: 7px;
+    margin-left: 600px;
+}
+.inestegrame{
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    margin-top: 7px;
+    margin-left: 25px;
+}
+.what-app{
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    margin-top: 7px;
+    margin-left: 25px;
+}
+.site{
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    margin-top: 7px;
+    margin-left: 25px;
+}
+.Youtube{
+    width: 40px;
+    height: 30px;
+    display: inline-block;
+    margin-top: 7px;
+    margin-left: 25px; 
+}
+.End{
+    position: relative;
+    color: white;
+    bottom: -5px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 50px;
+    font-weight: bold;
+}
